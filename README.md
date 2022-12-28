@@ -1,0 +1,1 @@
+# AKS-ACR-Managed-Identity
